@@ -1,4 +1,9 @@
 
+# ChatBox
+
+A very simple Chat Room made using Java 17.
+
+
 ## Installation
 
 The project is composed of two applications, The Server (ChatBoxServer) and the Client side (ChatBoxClient).
